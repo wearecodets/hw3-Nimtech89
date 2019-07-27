@@ -27,9 +27,9 @@ If it's your first time working on this project, run `npm install`. Otherwise, j
 ### 1. Deploy to Production 
 
 Just like the previous homework, connect this Github repo's `master` branch to Netlify and customize the domain URL to have the same name as this homework repo – for example: `http://hw3-niko.netlify.com`. From now on, every merged PR will trigger a deployment to this URL. 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/07005862-85a5-49ec-800c-33a3679a5b21/deploy-status)](https://app.netlify.com/sites/hw3-nimtech89/deploys)
-When you are done, [add a status badge](https://www.netlify.com/docs/continuous-deployment/#status-badges) below. Note that you may commit directly on `master` for this since it is such a tiny change.
 
+When you are done, [add a status badge](https://www.netlify.com/docs/continuous-deployment/#status-badges) below. Note that you may commit directly on `master` for this since it is such a tiny change.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/07005862-85a5-49ec-800c-33a3679a5b21/deploy-status)](https://app.netlify.com/sites/hw3-nimtech89/deploys)
 ### 2. Implement the Checkout Feature
 
 Your fix for the unclickable Pay button last week did not make your boss happy. Instead, he wants your team to build a prototype of the checkout feature.
